@@ -1,0 +1,15 @@
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\bin\Release\net5.0\Comunicaciones.BI.deps.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\bin\Release\net5.0\Comunicaciones.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\bin\Release\net5.0\ref\Comunicaciones.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\bin\Release\net5.0\Comunicaciones.BI.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\bin\Release\net5.0\Comunicaciones.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\bin\Release\net5.0\Comunicaciones.DAL.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.csprojAssemblyReference.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.AssemblyInfoInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.AssemblyInfo.cs
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.csproj.CoreCompileInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.csproj.CopyComplete
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\ref\Comunicaciones.BI.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.BI\obj\Release\net5.0\Comunicaciones.BI.pdb

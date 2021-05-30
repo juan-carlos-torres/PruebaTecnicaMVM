@@ -1,0 +1,12 @@
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\bin\Debug\net5.0\Comunicaciones.DAL.deps.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\bin\Debug\net5.0\Comunicaciones.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\bin\Debug\net5.0\ref\Comunicaciones.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\bin\Debug\net5.0\Comunicaciones.DAL.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.csprojAssemblyReference.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.AssemblyInfoInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.AssemblyInfo.cs
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\ref\Comunicaciones.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\PruebaMVM\Backend\Comunicaciones\Comunicaciones.DAL\obj\Debug\net5.0\Comunicaciones.DAL.pdb

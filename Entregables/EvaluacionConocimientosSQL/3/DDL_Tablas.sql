@@ -1,0 +1,23 @@
+CREATE DATABASE DBCOMUNICACIONES
+
+USE DBCOMUNICACIONES
+
+
+CREATE TABLE rol(
+	rol_id UNIQUEIDENTIFIER PRIMARY KEY,
+	rol_nombre VARCHAR(50) NOT NULL,
+	rol_activo BIT NOT NULL
+)
+
+
+CREATE TABLE funcionario(
+	fun_id UNIQUEIDENTIFIER PRIMARY KEY,
+	fun_id_rol UNIQUEIDENTIFIER NOT NULL,
+	fun_nombres VARCHAR(100) NOT NULL,
+	fun_apellidos VARCHAR(100) NOT NULL,
+	fun_identificacion VARCHAR(20) NOT NULL,
+	fun_activo BIT NOT NULL,
+	CONSTRAINT FK_funcionario__rol 
+		FOREIGN KEY (fun_id_rol) 
+		REFERENCES rol(rol_id)
+)
